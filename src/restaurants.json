@@ -1,0 +1,44 @@
+[{
+ 
+    "name":"tajmahal",
+    "description" :"restaurant indien",
+    "adresse":{"ville":"alger" ,
+              "commune" :"cheraga",
+              "detail":"7 Rue Idir Toumi Ben Aknoun 43 Route de Dely Brahim Chéraga Alger 16000 Algérie"} ,
+   "contact":"+213 23 38 49 82",
+    "photos":  [1,2],
+    "menu":"code123"
+    } ,
+
+    {
+        "name": "tajmahal",
+        "description": "restaurant indien",
+        "adresse": "daly brahim....",
+        "Contact": "055555555",
+        "photos": ["1", "2"]
+      },
+      {
+        "name": "times",
+        "description": "restaurant spécialiser cheese",
+        "adresse": " val d'hydra",
+        "Contact": "066666666",
+        "photos": ["1", "2"]
+      },
+      {
+        "name": "Casbah Istanbul",
+        "description": "restaurant spécialiser cuisine turque",
+        "adresse": "cheraga",
+        "Contact": "077777777",
+        "photos": ["1", "2"]
+      },
+      {
+        "name": "Khaima",
+        "description": "restaurant traditional",
+        "adresse": "alger centre",
+        "Contact": "088888888",
+        "photos": ["1", "2"]      }
+    ]
+
+
+
+ 

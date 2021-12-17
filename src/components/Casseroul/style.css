@@ -1,0 +1,33 @@
+#caroussel {
+  display: flex;
+  flex-direction: row;
+  width: calc(500px * 4);
+  height: 40vmax;
+  border: 2px solid rgba(12, 1, 1, 0);
+}
+
+#caroussel :hover {
+  display: flex;
+  animation: mesImages 25s infinite ease;
+}
+
+@keyframes mesImages {
+  0% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-500px);
+  }
+  50% {
+    transform: translateX(-1000px);
+  }
+  75% {
+    transform: translateX(-1000px);
+  }
+  85% {
+    transform: translateX(-200px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
